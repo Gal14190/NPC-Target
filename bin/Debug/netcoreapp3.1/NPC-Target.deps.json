@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NPC-Target/1.0.0": {
+        "runtime": {
+          "NPC-Target.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NPC-Target/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

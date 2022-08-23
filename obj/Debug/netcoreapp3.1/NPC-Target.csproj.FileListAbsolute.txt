@@ -1,0 +1,16 @@
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.exe
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.deps.json
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.runtimeconfig.json
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.runtimeconfig.dev.json
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.dll
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\bin\Debug\netcoreapp3.1\NPC-Target.pdb
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.csproj.AssemblyReference.cache
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC_Target.Form1.resources
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.csproj.GenerateResource.cache
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.AssemblyInfoInputs.cache
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.AssemblyInfo.cs
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.csproj.CoreCompileInputs.cache
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.dll
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.pdb
+C:\Users\GalAs\source\repos\NPC-Target\NPC-Target\obj\Debug\netcoreapp3.1\NPC-Target.genruntimeconfig.cache
